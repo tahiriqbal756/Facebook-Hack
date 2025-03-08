@@ -2,6 +2,9 @@ Facebook Hack tool
 
 
 Termux cammands
+
+👇👇👇👇👇👇
+
 apt update 
 
 apt upgrade 
