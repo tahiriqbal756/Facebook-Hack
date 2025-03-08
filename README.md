@@ -24,12 +24,14 @@ chmod +x facebook_bruteforce_setup.sh
 
 bash facebook_bruteforce_setup.sh
 
-facebook_bruteforce.py
+python facebook_bruteforce.py
 
 
 password list file 
 
 https://www.mediafire.com/file/2myza4tc6kpeifb/TF+(1).txt/file
+
+normal password list 10k password 
 
 
 
