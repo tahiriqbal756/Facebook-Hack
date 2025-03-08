@@ -5,6 +5,7 @@ Termux cammands
 apt update 
 
 apt upgrade 
+
 git clone https://github.com/tahiriqbal756/Facebook-Hack.git
 
 chmod +x facebook_bruteforce_setup.sh
