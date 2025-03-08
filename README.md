@@ -33,6 +33,7 @@ https://www.mediafire.com/file/2myza4tc6kpeifb/TF+(1).txt/file
 
 normal password list 10k password 
 
+https://www.mediafire.com/file/w1uj14zclwv5nmb/TF.txt/file
 
 
  Agar koi isu aye to is number pe bata dy shokrya 
